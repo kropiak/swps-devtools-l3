@@ -1,6 +1,4 @@
-# swps-devtools-l3
-
-## This is our third lecture.
+# SWPS-devtools-l3
 
 Topics:
 * Markdown
